@@ -4,9 +4,9 @@ This is a platform for my teammates and me to manage our study and preparation p
 ## 成员简介
 | 成员名称 | 技术栈 | 职责 |
 | -------- | ---------| -------- |
-| 李铭睿 | 标准库，hal库开发STM32，C语言基础 | 团队协调和软件 |
-| 王思齐 | 
-| 郭彭宇 | 标准库开发STM32，C语言基础 | 软件 |
+| A | 标准库，hal库开发STM32，C语言基础 | 团队协调和软件 |
+| B | 
+| C | 标准库开发STM32，C语言基础 | 软件 |
 ## 备赛方向：控制类（主），XXX（副）
 ### 所需技术栈：
 - **硬件：**
