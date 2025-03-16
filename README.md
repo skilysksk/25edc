@@ -17,3 +17,8 @@ This is a platform for my teammates and me to manage our study and preparation p
   - **功能：** 循迹，识别（色块，数字），目标定位寻踪，测距，人机交互
 - **报告文档：**
   - 公式，图标，测试数据
+### 所需工具：
+- 硬件材料：
+- 工具：螺丝刀，螺丝螺母螺柱，电烙铁热风枪，锡丝锡膏
+- 软件：Keil5，STM32CubeMX，STM32CubeIDE，canmvIDE
+  
