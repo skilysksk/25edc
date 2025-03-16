@@ -1,5 +1,4 @@
-# NUEDC--TRAINING
-This is a platform for my teammates and me to manage our study and preparation plan to National Undergraduate Electronics Design Contest and record the process.
+# 电赛规划
 
 ## 成员简介
 | 成员名称 | 技术栈 | 职责 |
@@ -7,7 +6,7 @@ This is a platform for my teammates and me to manage our study and preparation p
 | A | 标准库，hal库开发STM32，C语言基础 | 团队协调和软件 |
 | B | 
 | C | 标准库开发STM32，C语言基础 | 软件 |
-## 备赛方向：控制类（主），XXX（副）
+## 备赛方向：控制类
 ### 所需技术栈：
 - **硬件：**
   - **pcb绘制**
@@ -24,7 +23,7 @@ This is a platform for my teammates and me to manage our study and preparation p
 - **报告文档：**
   - 公式，图标，测试数据
 ### 所需工具：
-- 硬件材料：
+- 硬件材料：可充电12V2200mA锂电池，排针排母（ZX-XH2.54-3PZZ）等
 - 工具：螺丝刀，螺丝螺母螺柱，电烙铁热风枪，锡丝锡膏
 - 软件：Keil5，STM32CubeMX，STM32CubeIDE，canmvIDE
 ## 题目选择：智能送药小车
@@ -46,7 +45,7 @@ This is a platform for my teammates and me to manage our study and preparation p
 
     | 模块 | 技术选型 | 分析 |
     |--------|--------|--------|
-    | 主控芯片 | STM32主控 |
+    | 主控芯片 | mspm0g3507，stm32（c8t6，zet6） |
     | 循迹模块 | 红外对管（tcrt5000）或灰度传感器 | 红黑线扫描和循迹 |
     | 数字识别模块 | k210视觉模块 | 识别病房数字 |
     | 电机驱动 | TB6612，L298N | 驱动电机，PWM调速 |
@@ -82,6 +81,7 @@ This is a platform for my teammates and me to manage our study and preparation p
 - **第四周** （4.7-4.13）
   - 进行全任务整体测试调整
 
+## 备选题目：自动行驶小车
 
 
 
